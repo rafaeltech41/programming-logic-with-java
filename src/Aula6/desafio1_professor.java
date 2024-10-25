@@ -2,7 +2,7 @@ package Aula6;
 
 import java.util.Scanner;
 
-public class desafio1 {
+public class desafio1_professor {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("digite a quantidade de pessoas a serem cadastradas:");
