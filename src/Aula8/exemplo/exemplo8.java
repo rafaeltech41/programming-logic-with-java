@@ -1,4 +1,4 @@
-package Aula8;
+package Aula8.exemplo;
 
 public class exemplo8 {
     public static void main(String[] args) {
