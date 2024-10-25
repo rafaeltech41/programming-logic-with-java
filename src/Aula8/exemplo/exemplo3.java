@@ -1,4 +1,4 @@
-package Aula8;
+package Aula8.exemplo;
 
 import java.io.FileWriter;
 import java.io.IOException;
