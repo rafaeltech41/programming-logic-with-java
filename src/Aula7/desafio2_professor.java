@@ -36,8 +36,7 @@ case 2:
                     System.out.println("opção inválida");
             }
         }while (opcao!=5);
-//        matrizCadastro=  cadastrarUsuario(cabecalho);
-//        exibirCadastro(matrizCadastro,cabecalho);
+
     }
     private static String[][] cadastrarUsuario(String[][]matrizCadastro) {
         Scanner scanner = new Scanner(System.in);
